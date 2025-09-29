@@ -1,0 +1,1 @@
+# Smart-IoT-Plant-Care-System-for-Automated-Irrigation-and-Monitoring
