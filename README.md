@@ -5,7 +5,7 @@ markdown
 
 > A microprocessor project by **Group 4 – Section M**  
 > American International University – Bangladesh (AIUB)  
-> Department of Computer Science & Engineering
+> Department of Computer Science & Engineering.
 
 ---
 
