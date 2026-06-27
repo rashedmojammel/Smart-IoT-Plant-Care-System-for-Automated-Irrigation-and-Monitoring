@@ -144,7 +144,7 @@ Components were individually simulated in **Proteus** using the Arduino IDE:
 
 ## 📚 References
 
-Full references are listed in the project report. Key related works include studies on Arduino-based irrigation, NodeMCU + Blynk plant watering systems, ESP32 home automation, and solar-powered IoT irrigation published across IEEE Xplore, Procedia Computer Science, and various international engineering journals (2016–2024).
+Full references are listed in the project report. Key related works include studies on Arduino-based irrigation, NodeMCU + Blynk plant watering systems, ESP32 home automation, and solar-powered IoT irrigation published across IEEE Xplore, Procedia Computer Science, and various international engineering journals (2016–2024) !!
 
 ---
 
