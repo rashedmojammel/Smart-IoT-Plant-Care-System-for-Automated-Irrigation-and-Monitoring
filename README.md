@@ -1,7 +1,7 @@
 markdown
 
 # 🌱 Smart IoT Plant Care System
-### Automated Irrigation and Monitoring using NodeMCU ESP8266
+### Automated Irrigation and Monitoring using NodeMCU ESP8266 !!
 
 > A microprocessor project by **Group 4 – Section M**  
 > American International University – Bangladesh (AIUB)  
