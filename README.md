@@ -7,6 +7,9 @@ markdown
 > American International University – Bangladesh (AIUB)  
 > Department of Computer Science & Engineering.
 
+<img width="1536" height="1024" alt="0115a11f-91de-42c6-811e-c0022c15d36e" src="https://github.com/user-attachments/assets/2c09d8d0-cd6e-4341-8292-95e492a399e3" />
+
+
 ---
 
 ## 👥 Team Members
